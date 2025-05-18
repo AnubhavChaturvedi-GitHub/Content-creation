@@ -72,20 +72,6 @@ Navigate to `🌐 UseFullWebsite` for:
 
 ---
 
-## 🧾 Repository Structure
-
-Content-creation/
-├── Algorithm/
-│   └── content_creation_algorithm.md
-├── Background Music/
-│   └── [Various audio files]
-├── ColorCorrection/
-│   └── [Tutorials and LUTs]
-└── UseFullWebsite/
-└── useful_websites_list.md
-
----
-
 ## 🤝 Contribution Guide
 
 We love contributions! Here's how to help:
